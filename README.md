@@ -1,2 +1,2 @@
 # Real-Time-Face-Recognition
-The code uses face recognition and machine learning to detect and recognize faces in real-time from a video stream.
+The code is a Python script that uses face recognition and machine learning techniques to detect and recognize faces in real-time from a video stream. It first trains a Support Vector Machine (SVM) classifier on a set of known faces, and then uses this classifier to predict the name and accuracy of the faces detected in the video stream. The code uses the face_recognition and OpenCV libraries for face detection and manipulation. The script can be used for a variety of applications, such as security systems, attendance tracking, and personalized user interfaces.
